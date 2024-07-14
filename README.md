@@ -1,1 +1,1 @@
-This is a hangman game assessment from Trexquant, with an author's implementation for the guesser to the game. Detailed description of the game guesser implementation and the guesser accuracy after testing can be found in the project report.
+This is a hangman game assessment from Trexquant, with an author's implementation for the guesser to the game.
